@@ -6,7 +6,8 @@
     "module": "commonjs",
     "esModuleInterop": true,
     "declaration": true,
-    "outDir": "./dist"
+    "outDir": "./dist",
+    "noImplicitAny": false
   },
   "include": [
     "lib/**/*"
